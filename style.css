@@ -1,6 +1,8 @@
-body{background-color:steelblue;
+body{text-align: centre;
+     background-color:steelblue;
 }
 
+a, 
 p,
 li{color: whitesmoke !important;
 }
