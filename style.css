@@ -1,12 +1,11 @@
 body{text-align: centre;
-     background-color:lightsteelblue;
+     background-color:steelblue;
 }
 
 h1{background: lavender; 
    opacity: 0.75;
 }
 
-ul, 
 p,
 li{color: whitesmoke !important;
 }
@@ -14,6 +13,6 @@ li{color: whitesmoke !important;
 h3{color: mintcream;
 }
 
-table{color: black;
-     background: lightcyan;
+ul{color: darkslateblue!important;
+     background: snow;
 }
