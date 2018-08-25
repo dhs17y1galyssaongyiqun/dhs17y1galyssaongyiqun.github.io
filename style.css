@@ -2,7 +2,7 @@ body{background-color:steelblue;
 }
 
 p,
-li{color: whitesmoke;
+li{color: whitesmoke !important;
 }
 
 h3{color: mintcream;
