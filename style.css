@@ -1,17 +1,19 @@
-body{background-color:azure;
+body{background-color:steelblue;
 }
 
 head{font-family:Helvetica;
+     background-color: dimgray;
 }
 
 h1{font-family: Verdana;
    color: snow;
-   background-color: midnightblue;
+   background-color: dimgray;
 }
 
-li{color:indigo;
+p,
+li{color: whitesmoke;
 }
 
-h3{color: slategray;
+h3{color: mintcream;
 }
 
