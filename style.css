@@ -1,5 +1,5 @@
 head{font-family:Helvetica;
-     color: teal;
+     background-color: lightcyan;
 }
 
 h1{text-align: center;
@@ -12,3 +12,4 @@ h3{font-size: 16px;
 #hobbies, 
 #accomplishments {color: navy;
 }
+
