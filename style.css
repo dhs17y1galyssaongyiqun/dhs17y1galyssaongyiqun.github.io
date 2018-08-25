@@ -2,6 +2,13 @@ head{font-family:Helvetica;
      color: teal;
 }
 
-#hobbies,
+h1{text-align: center;
+   font-size: 18px;
+}
+
+h3{font-size: 16px;
+}
+
+#hobbies, 
 #accomplishments {color: navy;
 }
