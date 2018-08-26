@@ -1,18 +1,13 @@
-body{text-align: centre;
-     background-color:steelblue;
+body{background-color: black;
 }
 
-h1{background: lavender; 
+h1{background: azure; 
    opacity: 0.75;
 }
 
+ul,
+h3,
 p,
-li{color: whitesmoke !important;
+li{color: white !important;
 }
 
-h3{color: mintcream;
-}
-
-ul{color: darkslateblue!important;
-     background: snow;
-}
